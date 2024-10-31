@@ -1,4 +1,5 @@
-# 📹 Proyecto de Sistema de Videovigilancia Interactivo
+# 📹 Proyecto Interfaz para Sistema de Videovigilancia
+![Logo del proyecto](documentos/logo.webp)
 
 ---
 
