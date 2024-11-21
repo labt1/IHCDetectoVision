@@ -1,5 +1,5 @@
 # 📹 Proyecto Interfaz para Sistema de Videovigilancia
-![Logo del proyecto](documentos/logo.webp)
+![Logo del proyecto](documentos/logo.png)
 
 ---
 
